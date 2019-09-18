@@ -3,15 +3,15 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
+  padding-top: 65px;
   height: 100px;
-  margin-top: -10px;
-  position: fixed;
+  margin-top: 10px;
   width: 100%;
 }
 
 section {
-  padding-top: 100px;
+  padding-top: 30px;
   margin: 0 auto;
   width: 60%;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 h3 {
-  padding-top: 30px;
+  padding-top: 45px;
   text-align: center;
   font-size: 1.3em;
 }
